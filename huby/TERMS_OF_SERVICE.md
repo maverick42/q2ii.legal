@@ -13,7 +13,7 @@ Huby est une application Android gratuite qui regroupe vos notifications systèm
 ## 3. Éditeur de l'application
 
 Huby est développé et édité par Frédérik Benoist (q2ii.fr).
-Contact : dev.q2ii.fr@gmail.com
+Contact : dev.q2ii@gmail.com
 
 ## 4. Licence d'utilisation
 
