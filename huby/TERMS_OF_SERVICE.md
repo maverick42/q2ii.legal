@@ -51,4 +51,4 @@ Toute modification substantielle de ces conditions sera reflétée par une mise 
 
 ## 12. Contact
 
-Pour toute question relative à ces conditions : dev.q2ii.fr@gmail.com
+Pour toute question relative à ces conditions : dev.q2ii@gmail.com

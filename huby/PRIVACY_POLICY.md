@@ -65,4 +65,4 @@ Toute modification substantielle sera reflétée par une mise à jour de la date
 
 ## Contact
 
-Pour toute question concernant cette politique de confidentialité : dev.q2ii.fr@gmail.com
+Pour toute question concernant cette politique de confidentialité : dev.q2ii@gmail.com
