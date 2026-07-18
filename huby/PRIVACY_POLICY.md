@@ -43,6 +43,26 @@ Huby ne partage, ne vend, ni ne transmet aucune donnée à des tiers. Il n'y a :
 - aucun SDK tiers de collecte de données
 - aucune connexion réseau sortante liée à vos données personnelles
 
+## Suppression de vos données — Huby
+
+Vous disposez de plusieurs moyens de supprimer vos données, sans avoir besoin de contacter le développeur :
+
+**1. Suppression immédiate d'une application spécifique**
+Dans Huby, allez dans **Réglages → [nom de l'application]** et utilisez l'option de suppression par application. Les notifications déjà capturées pour cette application sont supprimées immédiatement de la base locale.
+
+**2. Réduction de la durée de conservation**
+Dans **Réglages → Rétention**, réduisez la durée à 7 jours (la valeur la plus courte disponible) pour que toutes les notifications plus anciennes que 7 jours soient automatiquement et définitivement supprimées lors du prochain cycle de purge (dans les 24 heures).
+
+**3. Désactivation de la correspondance avec les contacts**
+Si vous avez activé "Associer les expéditeurs aux contacts", désactivez ce réglage : les données de correspondance associées sont supprimées immédiatement, sans délai.
+
+**4. Suppression complète et immédiate**
+Désinstallez Huby depuis votre appareil. L'intégralité des données (notifications, préférences, cache de correspondance de contacts) est supprimée instantanément et définitivement, puisque toutes les données sont stockées exclusivement en local — il n'existe aucune copie sur un serveur externe à supprimer.
+
+**Ce qui est supprimé et ce qui ne l'est pas** : la suppression (par application, par expiration de rétention, ou par désinstallation) efface le contenu des notifications capturées (titre, texte, expéditeur) et les métadonnées associées. Aucune donnée n'est jamais conservée au-delà de ces mécanismes — Huby ne dispose d'aucun serveur ni sauvegarde externe.
+
+Pour toute question sur ces mécanismes : <dev.q2ii@gmail.com>
+
 ## Vos droits
 
 Puisque toutes les données restent sur votre appareil :
