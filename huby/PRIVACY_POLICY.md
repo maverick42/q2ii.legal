@@ -1,6 +1,6 @@
 # Politique de confidentialité — Huby
 
-**Dernière mise à jour :** 13 juillet 2026
+**Dernière mise à jour :** 18 juillet 2026
 
 ## Résumé en une phrase
 

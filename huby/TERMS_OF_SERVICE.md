@@ -1,6 +1,6 @@
 # Conditions générales d'utilisation — Huby
 
-**Dernière mise à jour :** 13 juillet 2026
+**Dernière mise à jour :** 18 juillet 2026
 
 ## 1. Acceptation
 
