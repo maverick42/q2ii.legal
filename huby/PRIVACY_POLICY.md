@@ -27,7 +27,7 @@ Huby utilise la permission `QUERY_ALL_PACKAGES` uniquement pour afficher le nom 
 
 **Exclusivement sur votre appareil.** Huby ne dispose d'aucun serveur, d'aucun compte utilisateur, et ne transmet aucune donnée sur Internet.
 
-- Les notifications sont stockées dans une base de données locale (Room/SQLite)
+- Les notifications sont stockées dans une base de données locale (Room/SQLite), **chiffrée** (AES-256 via SQLCipher, clé protégée par l'Android Keystore de votre appareil)
 - Vos préférences sont stockées localement (Android DataStore)
 - La sauvegarde automatique Android (Google Backup) est **désactivée** pour Huby — vos données ne sont jamais copiées vers un service cloud
 
